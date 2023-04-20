@@ -1,6 +1,10 @@
+<!DOCTYPE html?
+<html>
+<body>
 
-# Protocol for PCR amplifying and sequencing rbcLa and ITS2 regions
-### Kate Graydon :: April 2023
+<h1># Protocol for PCR amplifying and sequencing rbcLa and ITS2 regions
+### Kate Graydon :: April 2023 </h1>
+<p>
 
 This protocol is for amplifying pollen DNA for the rbcLa and ITS2 DNA barcode markers, by PCR. 
 **Choice of polymerase mastermix depends on if you want to sequence purified or unpurified products (use green mix for former, and colourless mix for latter). With Eurofins, unpurified products can be sequenced only in 96-well plates (PlateSeq Kit PCR), but purified products can be sequenced in 96-well plates (PlateSeq Kit Mix) or ad-hoc in individual tubes (Mix2Seq Kit). Sequencing unpurified products is the cheapest option and the least work, but requires very consistent PCR products.**
@@ -165,4 +169,6 @@ Zymo spin IC columns | consumable | 250 | £180.18 | Cambridge Bioscience | C100
 PlateSeq Kit PCR | consumable | 96 reactions | £270.00 | Eurofins Genomics | Off marketplace
 PlateSeq Kit Mix | consumable | 96 reactions | £250.75 | Eurofins Genomics | Off marketplace
 Mix2Seq Kit | consumable | 96 reactions | £290.00 | Eurofins Genomics | Off marketplace
-
+</p>
+</body>
+</html>
